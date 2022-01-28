@@ -3,7 +3,7 @@
     "158": {
       "tuneId": "158",
       "title": "Boys of Bluehill, The",
-      "shlug": "boys-of-bluehill-the",
+      "shlug": "158-boys-of-bluehill-the",
       "rhythm": "hornpipe",
       "ytid": "LipEuPoJqPk",
       "mp3": "",
@@ -19,12 +19,12 @@
       "source": "",
       "title2": "",
       "abcheader": "X:158\nT:Boys of Bluehill, The\nR:hornpipe\nH:One of the most common session tunes. Often played w \"Harvest Home\"\nZ:id:hn-hornpipe-47\nM:C|\nK:D",
-      "abc": "FA|BAFA D2FA|BA (3Bcd e2de|faaf egfe|dfed B2dA|\n BAFA D2FA|BA (3Bcd e2de|faaf egfe|d2f2 d2:|\n |:fg|afdf a2gf|efga b2ag|faaf egfe|dfed B2dA|\n BAFA D2FA|BA (3Bcd e2de| faaf egfe|d2f2 d2:|\n P:Variations:\n |:FA|BAFA DAFA|BA (3Bcd e2de|fg (3agf efge|de (3fed B2dB|\n BAFA D2 (3EFA|BA (3Bcd e2de|fgaf egfe|d2dc d2:|\n |:fg|afdf a2gf|gfga b2ag|fgaf ef (3gfe|de (3fed B2dB|\n BAFA D2 (3EFA|BA (3Bcd e2de|fgaf egfe|d2dc d2:|"
+      "abc": "\nFA|BAFA D2FA|BA (3Bcd e2de|faaf egfe|dfed B2dA|\n BAFA D2FA|BA (3Bcd e2de|faaf egfe|d2f2 d2:|\n |:fg|afdf a2gf|efga b2ag|faaf egfe|dfed B2dA|\n BAFA D2FA|BA (3Bcd e2de| faaf egfe|d2f2 d2:|\n P:Variations:\n |:FA|BAFA DAFA|BA (3Bcd e2de|fg (3agf efge|de (3fed B2dB|\n BAFA D2 (3EFA|BA (3Bcd e2de|fgaf egfe|d2dc d2:|\n |:fg|afdf a2gf|gfga b2ag|fgaf ef (3gfe|de (3fed B2dB|\n BAFA D2 (3EFA|BA (3Bcd e2de|fgaf egfe|d2dc d2:|"
     },
     "252": {
       "tuneId": "252",
       "title": "Banish Misfortune",
-      "shlug": "banish-misfortune",
+      "shlug": "252-banish-misfortune",
       "rhythm": "jig",
       "ytid": "gocoL1Zvrs4",
       "mp3": "",
@@ -40,12 +40,12 @@
       "source": "",
       "title2": "",
       "abcheader": "X:252\nT:Banish Misfortune\nR:jig\nH:First bar also played |^fed cAG|\nD:Tommy Keane & Jacqueline McCarthy: The Wind among the Reeds\nD:Chieftains Live.\nZ:id:hn-jig-3\nM:6/8\nK:Dmix",
-      "abc": "fed cAG | AGd cAG | ~F3 DED | ~F3 GFG |\n ~A3 cAG | AGA cde | fed cAG | Ad^c d2e :|\n |: f2d d^cd | f2a agf | e2c cBc | ece gfe |\n f2g agf | e2f gfe | fed cAG | Ad^c d2e :|\n |: f2g e2f | ded cdc | ~A3 GAG | ~F3 ded |\n c3 cAG | AGA cde | fed cAG | Ad^c d2e :|\n P:variations\n |: =fed cAG | A2d cAG | F2D DED | FEF ~G3 |\n AGA cAG | ~A3 cde | fed cAG | Ad^c d2e :|\n |: f2d d^cd | f2g agf | e2c cBc | e2f gfe |\n f2g agf | e2f gfe | fed cAG | Ad^c d2e :|\n |: f2g e2f | d2e c2d | ABA GAG | F2d ded |\n c3 cAG | AGA cde | fed cAG | Ad^c d2e :|"
+      "abc": "\nfed cAG | AGd cAG | ~F3 DED | ~F3 GFG |\n ~A3 cAG | AGA cde | fed cAG | Ad^c d2e :|\n |: f2d d^cd | f2a agf | e2c cBc | ece gfe |\n f2g agf | e2f gfe | fed cAG | Ad^c d2e :|\n |: f2g e2f | ded cdc | ~A3 GAG | ~F3 ded |\n c3 cAG | AGA cde | fed cAG | Ad^c d2e :|\n P:variations\n |: =fed cAG | A2d cAG | F2D DED | FEF ~G3 |\n AGA cAG | ~A3 cde | fed cAG | Ad^c d2e :|\n |: f2d d^cd | f2g agf | e2c cBc | e2f gfe |\n f2g agf | e2f gfe | fed cAG | Ad^c d2e :|\n |: f2g e2f | d2e c2d | ABA GAG | F2d ded |\n c3 cAG | AGA cde | fed cAG | Ad^c d2e :|"
     },
     "290": {
       "tuneId": "290",
       "title": "Kesh Jig, The",
-      "shlug": "kesh-jig-the",
+      "shlug": "290-kesh-jig-the",
       "rhythm": "jig",
       "ytid": "",
       "mp3": "",
@@ -61,12 +61,12 @@
       "source": "",
       "title2": "",
       "abcheader": "X:290\nT:Kesh Jig, The\nT:Kesh Mountain, The\nR:jig\nD:Bothy Band 1975.\nD:Michael Tubridy: The Eagle's Whistle\nZ:id:hn-jig-41\nM:6/8\nK:G",
-      "abc": "~G3 GAB|~A3 ABd|edd gdd|edB dBA|~G3 GAB|~A3 ABd|edd gdB|1 AGF G2D:|2 AGF G2A||\n |:~B3 dBd|ege dBG|~B3 dBG|ABA AGA|BAB dBd|ege dBd|~g3 aga|bgf g3:|"
+      "abc": "\n~G3 GAB|~A3 ABd|edd gdd|edB dBA|~G3 GAB|~A3 ABd|edd gdB|1 AGF G2D:|2 AGF G2A||\n |:~B3 dBd|ege dBG|~B3 dBG|ABA AGA|BAB dBd|ege dBd|~g3 aga|bgf g3:|"
     },
     "291": {
       "tuneId": "291",
       "title": "Mist Covered Mountain, The",
-      "shlug": "mist-covered-mountain-the",
+      "shlug": "291-mist-covered-mountain-the",
       "rhythm": "jig",
       "ytid": "",
       "mp3": "",
@@ -82,12 +82,12 @@
       "source": "",
       "title2": "",
       "abcheader": "X:291\nT:Mist Covered Mountain, The\nT:Mist on the Mountain, The\nR:jig\nC:Martin \"Junior\" Crehan (1908-1998)\nD:De Dannan: Mist Covered Mountain\nD:Martin Hayes\nZ:id:hn-jig-42\nM:6/8\nK:Ador",
-      "abc": "EAA ABd|eAA AGE|~G3 GAB|dBA GED|EAA ABd|eAA B^cd|efg dBG|1 BAG A2G:|2 BAG A2a||\n age a2b|age edB|AGE G2A|BAB deg|age a2b|age edB|AGE G2A|BAG A3|\n age a2b|age edB|AGE G2A|BAB GED|EDE G2A|BAG ABd|efg dBG|BAG A2G||"
+      "abc": "\nEAA ABd|eAA AGE|~G3 GAB|dBA GED|EAA ABd|eAA B^cd|efg dBG|1 BAG A2G:|2 BAG A2a||\n age a2b|age edB|AGE G2A|BAB deg|age a2b|age edB|AGE G2A|BAG A3|\n age a2b|age edB|AGE G2A|BAB GED|EDE G2A|BAG ABd|efg dBG|BAG A2G||"
     },
     "344": {
       "tuneId": "344",
       "title": "Oh, Hag! You've Killed Me",
-      "shlug": "oh-hag-you-ve-killed-me",
+      "shlug": "344-oh-hag-you-ve-killed-me",
       "rhythm": "jig",
       "ytid": "",
       "mp3": "",
@@ -103,12 +103,12 @@
       "source": "",
       "title2": "",
       "abcheader": "X:95\nT:Oh, Hag! You've Killed Me\nT:Old Hag, You've Killed Me\nT:Old Hag, You Have Killed Me\nT:A Chailleach, Do Mhara\\'is M\\'e\nR:jig\nD:Bothy Band: Old Hag, You Have Killed Me\nD:Moving Hearts: The Storm\nZ:id:hn-jig-95\nM:6/8\nK:Dmix",
-      "abc": "FDD cAA|ded cAG|~A3 ABG|ABA A2G|FDD cAA|ded cAF|~G3 GcA|1 GAG G2E:|2 GAG G2e||\n |:~f3 gfg|afd cAG|~A3 ABG|ABA A2e|~f3 gfg|afd cAF|~G3 GcA|1 GAG G2e:|2 GAG G2E||"
+      "abc": "\nFDD cAA|ded cAG|~A3 ABG|ABA A2G|FDD cAA|ded cAF|~G3 GcA|1 GAG G2E:|2 GAG G2e||\n |:~f3 gfg|afd cAG|~A3 ABG|ABA A2e|~f3 gfg|afd cAF|~G3 GcA|1 GAG G2e:|2 GAG G2E||"
     },
     "435": {
       "tuneId": "435",
       "title": "Lilting Banshee, The",
-      "shlug": "lilting-banshee-the",
+      "shlug": "435-lilting-banshee-the",
       "rhythm": "jig",
       "ytid": "l52_Jc2JKFo",
       "mp3": "",
@@ -124,12 +124,12 @@
       "source": "Mary Bergin",
       "title2": "Miller of Glenmire, The",
       "abcheader": "X:435\nT:Lilting Banshee, The\nT:Miller of Glenmire, The\nR:jig\nS:Mary Bergin\nH:Bars 1 and 5 also played |EAA EAc|\nZ:id:hn-jig-186\nM:6/8\nK:Ador",
-      "abc": "EAA EAA|BAB G2A|Bee edB|dBA GED|EAA EAA|BAB G2A|Bee edB|1 dBA A2G:|2 dBA ABd||\n eaa age|dBA G2A|Bee edB|def ~g3|eaa age|dBA G2A|Bee edB|1 dBA ABd:|2 dBA A2G||"
+      "abc": "\nEAA EAA|BAB G2A|Bee edB|dBA GED|EAA EAA|BAB G2A|Bee edB|1 dBA A2G:|2 dBA ABd||\n eaa age|dBA G2A|Bee edB|def ~g3|eaa age|dBA G2A|Bee edB|1 dBA ABd:|2 dBA A2G||"
     },
     "578": {
       "tuneId": "578",
       "title": "Joe Cooley's Jig",
-      "shlug": "joe-cooleys-jig",
+      "shlug": "578-joe-cooleys-jig",
       "rhythm": "jig",
       "ytid": "",
       "mp3": "",
@@ -145,12 +145,12 @@
       "source": "",
       "title2": "",
       "abcheader": "X:578\nT:Joe Cooley's Jig\nR:jig\nH:Also played in G, #333. See also \"The Angry Peeler\", #194\nD:Sanctuary Sessions\nZ:id:hn-jig-329\nM:6/8\nK:D",
-      "abc": "fef dcB|~A3 ABd|~e3 edB|~e3 ede|~f3 dcB|ABA ABd|~e3 edB|d3 e3:|\n |:~f3 a2f|fef a2f|efe edB|efe ede|\n [1 fef a2f|fef afd|efe ede|f2e d2e:|\n [2 fef dcB|~A3 ABd|~e3 ede|f2e d2e||"
+      "abc": "\nfef dcB|~A3 ABd|~e3 edB|~e3 ede|~f3 dcB|ABA ABd|~e3 edB|d3 e3:|\n |:~f3 a2f|fef a2f|efe edB|efe ede|\n [1 fef a2f|fef afd|efe ede|f2e d2e:|\n [2 fef dcB|~A3 ABd|~e3 ede|f2e d2e||"
     },
     "588": {
       "tuneId": "588",
       "title": "Out on the Ocean",
-      "shlug": "out-on-the-ocean",
+      "shlug": "588-out-on-the-ocean",
       "rhythm": "jig",
       "ytid": "",
       "mp3": "",
@@ -171,7 +171,7 @@
     "935": {
       "tuneId": "935",
       "title": "Tarbolton, The",
-      "shlug": "tarbolton-the",
+      "shlug": "935-tarbolton-the",
       "rhythm": "reel",
       "ytid": "",
       "mp3": "",
@@ -187,7 +187,7 @@
       "source": "",
       "title2": "",
       "abcheader": "X:935\nT:Tarbolton, The\nR:reel\nH:Originally Scottish: \"Tarbolton Lodge\"\nH:Often played as a set: The Tarbolton/The Longford Collector/The Sailor's Bonnet.\nH:This set comes from the playing of Michael Coleman.\nZ:id:hn-reel-21\nM:C|\nK:Edor",
-      "abc": "Beed e2BA|GBAF GFEF|Dddc d2AG|FAGE FEDF|\n Eeed efge|fedf e2BA|GABG FGAF|BGAF GEE2:|\n |:gfef gebe|gebe gfec|d2fd Adfd|cdAG FDEF|\n GABG FGAF|E2ef gfed|BcdB A2FA|BGAF GEE2:|\n P:Variations:\n |:e2~e2 eBBA|GBAF GFEF|Dddc d2AG|FAGE FEDF|\n ~B3d efge|fedf eBBA|GBAG FGA=c|BGAF GEE2:|\n |:~e3f gfef|gebe gfef|d2fd Adfd|cdAG FDEF|\n ~G3B ~F3A|E2ef gfed|ed=cB ABGA|(3Bcd AF GEE2:|"
+      "abc": "\nBeed e2BA|GBAF GFEF|Dddc d2AG|FAGE FEDF|\n Eeed efge|fedf e2BA|GABG FGAF|BGAF GEE2:|\n |:gfef gebe|gebe gfec|d2fd Adfd|cdAG FDEF|\n GABG FGAF|E2ef gfed|BcdB A2FA|BGAF GEE2:|\n P:Variations:\n |:e2~e2 eBBA|GBAF GFEF|Dddc d2AG|FAGE FEDF|\n ~B3d efge|fedf eBBA|GBAG FGA=c|BGAF GEE2:|\n |:~e3f gfef|gebe gfef|d2fd Adfd|cdAG FDEF|\n ~G3B ~F3A|E2ef gfed|ed=cB ABGA|(3Bcd AF GEE2:|"
     }
   }
 }
