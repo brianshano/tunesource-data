@@ -188,6 +188,27 @@
       "title2": "",
       "abcheader": "X:935\nT:Tarbolton, The\nR:reel\nH:Originally Scottish: \"Tarbolton Lodge\"\nH:Often played as a set: The Tarbolton/The Longford Collector/The Sailor's Bonnet.\nH:This set comes from the playing of Michael Coleman.\nZ:id:hn-reel-21\nM:C|\nK:Edor",
       "abc": "\nBeed e2BA|GBAF GFEF|Dddc d2AG|FAGE FEDF|\n Eeed efge|fedf e2BA|GABG FGAF|BGAF GEE2:|\n |:gfef gebe|gebe gfec|d2fd Adfd|cdAG FDEF|\n GABG FGAF|E2ef gfed|BcdB A2FA|BGAF GEE2:|\n P:Variations:\n |:e2~e2 eBBA|GBAF GFEF|Dddc d2AG|FAGE FEDF|\n ~B3d efge|fedf eBBA|GBAG FGA=c|BGAF GEE2:|\n |:~e3f gfef|gebe gfef|d2fd Adfd|cdAG FDEF|\n ~G3B ~F3A|E2ef gfed|ed=cB ABGA|(3Bcd AF GEE2:|"
+    },
+    "2357": {
+      "tuneId": "2357",
+      "title": "A Whisky Kiss",
+      "shlug": "2357-a-whisky-kiss",
+      "rhythm": "reel",
+      "ytid": "",
+      "mp3": "",
+      "thesession": "",
+      "featured": "1",
+      "composer": "Shooglenifty",
+      "musicKey": "Amix",
+      "noteLength": "1/8",
+      "meter": "4/4",
+      "origin": "",
+      "tempo": "",
+      "ryhthm2": "reel",
+      "source": "",
+      "title2": "",
+      "abcheader": "X: 1\nT: A Whisky Kiss\nR: reel\nM: 4/4\nL: 1/8\nK: Amix",
+      "abc": "\ncdeg a2 ed|cded cA A/A/A|=cdef g2 gf|gdBd gaed|\ncdeg a2 ed|cded cA A/A/A|=cded cGcd|Bdgd gaed:|\n|:eded cdeg|aged edcA|=cGcd eded|Bdgd gaed|\neded cdeg|aged edcA|=cded cGcd|Bdgd gaed:|\n|:ea a/a/a gaeg|aged cded|=cg g/g/g fgeg|dgBe gaed|\nea a/a/a gaeg|aged cded|=cded cGcd|Bdgd gaed:|"
     }
-  }
+    }
 }
